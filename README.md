@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+3 soatlik task
+
 https://github.com/Jaxa778/exam6/assets/app_demo.mp4
 
 <video width="300" height="600" controls>
