@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-https://github.com/exam6/assets/app_demo.mp4
+https://github.com/Jaxa778/exam6/assets/app_demo.mp4
 
 <video width="300" height="600" controls>
   <source src="assets/demo/app_demo.mp4" type="video/mp4">
